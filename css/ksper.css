@@ -528,7 +528,7 @@ header .container nav .bbb:hover + ul li a {
 }
 .stats .image {
     background-image: url(../images/stats.png);
-    height: 70vh;
+    height: 100vh;
     max-width: 100%;
 }
 .stats .over-lay {
